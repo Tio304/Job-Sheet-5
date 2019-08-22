@@ -31,6 +31,12 @@ Operator: +
 
 Operand : C,A,B
 
+Latihan Soal - 03
+
+1. tipe data yang bekerja adalah tipe data yang sama jika tidak sama sistem tidak akan be kerja
+
+2.karena perbedaan int dan double tidak dapat di cerna sistem
+
 Latihan Soal – 04
 
 (a) x = 1
